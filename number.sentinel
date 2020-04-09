@@ -1,0 +1,3 @@
+numbers = [6, 22, 8, 4, 12]
+main = all numbers as n { n % 2 is 0 }
+//  all numbers in a list are even
