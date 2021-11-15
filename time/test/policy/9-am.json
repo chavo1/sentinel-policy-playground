@@ -1,0 +1,9 @@
+{
+    "param": {
+      "day": "monday",
+      "hour": 9
+    },
+    "test": {
+      "main": true
+    }
+  }
