@@ -1,0 +1,5 @@
+{
+  "mock": {
+    "time": "testdata/mock-time.sentinel"
+  }
+}

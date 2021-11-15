@@ -1,0 +1,3 @@
+import "time"
+
+main = rule { time.now.hour is 9 }

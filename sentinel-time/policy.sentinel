@@ -1,0 +1,3 @@
+import "time"
+
+main = time.now.day == 31

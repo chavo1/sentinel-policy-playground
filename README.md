@@ -3,6 +3,7 @@
 ## Requirements 
 
 - Install [Sentinel](https://docs.hashicorp.com/sentinel/downloads/)
+- Inspiration [Repo](https://docs.hashicorp.com/sentinel/configuration) 
 
 ### How to use it:
 

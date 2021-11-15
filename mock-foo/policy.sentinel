@@ -1,0 +1,3 @@
+import "foo"
+
+main = rule { foo.bar() is "baz" }
